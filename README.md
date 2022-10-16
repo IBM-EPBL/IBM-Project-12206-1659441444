@@ -4,8 +4,7 @@ GLOBAL SALES DATA ANALYTICS
 
 Team ID PNT2022TMID21900
 
-As a team we complete and submit our Tasks on prescribed structured repos.
-Individual Assignments are committed in Assignment repository as following.
+As a team we complete and submit our Tasks on prescribed structured repos. Individual Assignments are committed in Assignment repository as following.
 
 1. Jaiprakash M as Team lead.
 
