@@ -1,6 +1,8 @@
 # IBM-Project-12206-1659441444
 
-Global Sales Data Analytics
+GLOBAL SALES DATA ANALYTICS
+
+Team ID PNT2022TMID21900
 
 As a team we complete and submit our Tasks on prescribed structured repos.
 
